@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (c) 2015-2015 by Shanghai shootbox Information Technology Co., Ltd.
+  ~ Create: 2015/9/28 1:1:8
+  ~ Project: ViewPager_multiView
+  ~ File: layout3.xml
+  ~ Class: layout3.xml
+  ~ Module: app
+  ~ Author: yangyankai
+  ~ Version: 1.0
+  -->
+
+<!--
+  ~ Copyright (c) 2015-2015 by Shanghai shootbox Information Technology Co., Ltd.
+  ~ Create: 2015/9/28 10:43:54
+  ~ Project: ViewPager_multiView
+  ~ File: layout1.xml
+  ~ Class: layout1.xml
+  ~ Module: app
+  ~ Author: yangyankai
+  ~ Version: 1.0
+  -->
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:gravity="center"
+                android:background="#00c"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent">
+    <TextView
+
+
+        android:text="Third View"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+</RelativeLayout>
